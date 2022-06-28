@@ -1,0 +1,5 @@
+apiVersion: v2
+name: counter
+description: Example Counter Application
+type: application
+version: 2022.06.28
